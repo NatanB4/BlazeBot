@@ -1,6 +1,6 @@
 # BlazeBot
 <div align="">
-  <p> Esse é um projeto com foco em web scraping utilizando selenium e BeautifulSoup em sites dinamicos aonde eu pego as informações do site de apostas da <a href="https://blaze.com/pt/games/double" target="_blank">Blaze</a> e colocar em um algoritmo para tentar adivinhar a proxima cor e logo comunicar a pessoa por um bot no Telegram</p>
+  <p> Esse é um projeto com foco em web scraping utilizando selenium e BeautifulSoup em sites dinamicos aonde eu pego as informações do site de apostas da <a href="https://blaze.com/pt/games/double" target="_blank">Blaze</a> e coloco em um algoritmo para tentar adivinhar a proxima cor e logo comunicar a pessoa por um bot no Telegram</p>
 </div>
 
 # Mais sobre o BlazeBot
