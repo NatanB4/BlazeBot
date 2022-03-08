@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 import json
 import telegram
-import time
 import schedule
 
 """
@@ -41,12 +40,6 @@ def verifyIfNeedAlarm():
             mensagem = i['mensagem']
             
             if sequenceColor(cor, vezes):
-                # if ultima_cor[0] != colorPath[1]:
-                #     bot.send_message(chat_id=user_id, text=f'Recuar, resposta incorreta.')
-                #     ultima_cor.clear()
-                    
-                #     return
-                    
                 if jogar == "vermelho":
                     print(jogar)
                     bot.send_message(chat_id=user_id, text=f'Sequencia: [{colorPath[0], colorPath[1], colorPath[2], colorPath[3]}]\n{mensagem} {emote}')     
