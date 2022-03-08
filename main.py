@@ -50,6 +50,7 @@ def verifyIfNeedAlarm():
                     return
      
 def startVerification():
+    # Opções para deixar o navegador mais rapido
     options = webdriver.FirefoxOptions()
     options.add_argument('--headless')
     options.add_argument('--log-level=3')
