@@ -1,0 +1,30 @@
+[
+    {
+        "cor":"red",
+        "vezes":"5",
+        "jogar":"preto",
+        "emote":"⬛",
+        "mensagem":"Jogar: "
+    },
+    {
+        "cor":"black",
+        "vezes":"3",
+        "jogar":"vermelho",
+        "emote":"🟥",
+        "mensagem":"Jogar: "
+    },
+    {
+        "cor":"black",
+        "vezes":"2",
+        "jogar":"vermelho",
+        "emote":"🟥",
+        "mensagem":"Jogar: "
+    },
+    {
+        "cor":"red",
+        "vezes":"2",
+        "jogar":"preto",
+        "emote":"⬛",
+        "mensagem":"\nSite: https://blaze.com/pt/games/double\nJogar: "
+    }
+]
