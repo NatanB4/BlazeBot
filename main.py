@@ -29,7 +29,7 @@ def sequenceColor(color, vezes):
     
 def verifyIfNeedAlarm():
     print(colorPath)
-    with open("commands\configuracao.json", encoding='utf-8') as meu_json:
+    with open("./configuracao.json", encoding='utf-8') as meu_json:
         dados = json.load(meu_json)
 
         for i in dados:
