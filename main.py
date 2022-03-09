@@ -10,8 +10,8 @@ Algoritmo de Captura de dados
 
 colorPath = []
 LastCommand = ""
-api_key = '5140294430:AAH0UKPWi8RKmo9I1CJyzCO_24IvJ36m8iE'
-user_id = '1824713549'
+api_key = 'SEU TOKEN'
+user_id = 'SEU ID'
 bot = telegram.Bot(token=api_key)
 ultima_cor = ['']
 
